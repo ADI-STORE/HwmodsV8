@@ -23,13 +23,13 @@ global.ig = '' // ubah aja
 global.email = 'zallmods992@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'REY509INVISIBLE' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'REY-BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'REY509INVISIBLE' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283195366404','6283833031795','6283877604686','62895330006855'] // ubah aja pake nomor lu
-global.premium = ['6283195366404'] // ubah aja pake nomor lu
+global.owner = ['6287841959988','6283833031795','6283877604686','62895330006855'] // ubah aja pake nomor lu
+global.premium = ['6287841959988'] // ubah aja pake nomor lu
 global.packname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' // ubah aja
 global.ownerr = ['𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒'] // ubaha aja
 global.author = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah aja
